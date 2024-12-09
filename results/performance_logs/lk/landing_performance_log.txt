@@ -1,0 +1,161 @@
+Processing dataset: landing
+Processing dataset: landing
+Processing dataset: landing
+Frame 0, Affine Matrix M: [ 0.71979737 -0.7121255 ]
+Frame 0, Average Pixel Difference: 49790.6583
+Processing dataset: landing
+Frame 0, Affine Matrix M: [ 0.71979737 -0.7121255 ]
+Frame 0, Average Pixel Difference: 49790.6583
+Processing dataset: landing
+Frame 0, Affine Matrix M: [ 0.71979737 -0.7121255 ]
+Frame 0, Average Pixel Difference: 49790.6583
+Processing dataset: landing
+Frame 0, Affine Matrix M: (0.9641309184158344, -0.8480234872143566)
+Frame 0, Average Pixel Difference: 0.0161
+Frame 0, Processing Time: 1.5459 seconds
+Frame 1, Affine Matrix M: (1.2953641673081566, 2.1387520944778946)
+Frame 1, Average Pixel Difference: -1.8137
+Frame 1, Processing Time: 2.0298 seconds
+Frame 2, Affine Matrix M: (2.6474465233415887, -0.08312252431582723)
+Frame 2, Average Pixel Difference: 0.9371
+Frame 2, Processing Time: 1.5997 seconds
+Frame 3, Affine Matrix M: (-1.1088093781666568, -2.457034279547287)
+Frame 3, Average Pixel Difference: 0.2070
+Frame 3, Processing Time: 1.5977 seconds
+Frame 4, Affine Matrix M: (-2.5800745800925204, 1.9514628278309)
+Frame 4, Average Pixel Difference: -2.7034
+Frame 4, Processing Time: 1.9679 seconds
+Frame 5, Affine Matrix M: (-1.2333185484342917, -1.3500435865157858)
+Frame 5, Average Pixel Difference: 1.1319
+Frame 5, Processing Time: 1.7786 seconds
+Frame 6, Affine Matrix M: (-2.848431268084266, 0.06900082095860287)
+Frame 6, Average Pixel Difference: -1.0379
+Frame 6, Processing Time: 1.4654 seconds
+Frame 7, Affine Matrix M: (-3.2972249377383136, -1.0477955720152148)
+Frame 7, Average Pixel Difference: 0.5267
+Frame 7, Processing Time: 1.6048 seconds
+Frame 8, Affine Matrix M: (-2.376686489090688, 1.249553808822945)
+Frame 8, Average Pixel Difference: -1.3036
+Frame 8, Processing Time: 1.5612 seconds
+Frame 9, Affine Matrix M: (-1.6620032552996349, 0.5125361662073549)
+Frame 9, Average Pixel Difference: -0.5359
+Frame 9, Processing Time: 1.6747 seconds
+Frame 10, Affine Matrix M: (-5.314073747946877, -0.714719218979274)
+Frame 10, Average Pixel Difference: 0.0495
+Frame 10, Processing Time: 2.3322 seconds
+Frame 11, Affine Matrix M: (-5.595952885163466, 2.5642103607199638)
+Frame 11, Average Pixel Difference: -1.5265
+Frame 11, Processing Time: 1.6213 seconds
+Frame 12, Affine Matrix M: (-5.112962257331156, 2.4737582477163085)
+Frame 12, Average Pixel Difference: -1.9408
+Frame 12, Processing Time: 1.3816 seconds
+Frame 13, Affine Matrix M: (0.8793627436507745, 3.5208046272628093)
+Frame 13, Average Pixel Difference: 0.1805
+Frame 13, Processing Time: 1.7352 seconds
+Frame 14, Affine Matrix M: (-1.4408113824645792, -0.02742856088749087)
+Frame 14, Average Pixel Difference: 1.4014
+Frame 14, Processing Time: 1.3129 seconds
+Frame 15, Affine Matrix M: (0.22478495868227574, 3.7188766771200172)
+Frame 15, Average Pixel Difference: -1.5264
+Frame 15, Processing Time: 1.2344 seconds
+Frame 16, Affine Matrix M: (1.1638677671275526, 0.8363837697596653)
+Frame 16, Average Pixel Difference: 0.8144
+Frame 16, Processing Time: 1.3910 seconds
+Frame 17, Affine Matrix M: (0.12012515684305641, 0.528274899010964)
+Frame 17, Average Pixel Difference: -0.0991
+Frame 17, Processing Time: 1.4383 seconds
+Frame 18, Affine Matrix M: (6.0444700517355745, 3.161317089416928)
+Frame 18, Average Pixel Difference: 0.3279
+Frame 18, Processing Time: 1.4535 seconds
+Frame 19, Affine Matrix M: (6.635891211501495, 2.868506257839312)
+Frame 19, Average Pixel Difference: 0.4211
+Frame 19, Processing Time: 1.3594 seconds
+Frame 20, Affine Matrix M: (1.4833429269223946, 2.123709438638909)
+Frame 20, Average Pixel Difference: -1.0825
+Frame 20, Processing Time: 1.8603 seconds
+Frame 21, Affine Matrix M: (-1.170217658448871, 0.5288657376915143)
+Frame 21, Average Pixel Difference: -0.6212
+Frame 21, Processing Time: 2.2041 seconds
+Frame 22, Affine Matrix M: (-2.9199893412171662, 3.2558366038451148)
+Frame 22, Average Pixel Difference: -0.8901
+Frame 22, Processing Time: 1.8542 seconds
+Frame 23, Affine Matrix M: (-2.981522370670937, 5.944890754094541)
+Frame 23, Average Pixel Difference: -0.8064
+Frame 23, Processing Time: 2.1943 seconds
+Frame 24, Affine Matrix M: (-9.144957586143072, 3.0471636848534875)
+Frame 24, Average Pixel Difference: -1.1428
+Frame 24, Processing Time: 2.8917 seconds
+Frame 25, Affine Matrix M: (1.3208817367719086, 0.443040700744741)
+Frame 25, Average Pixel Difference: 2.0912
+Frame 25, Processing Time: 3.0476 seconds
+Frame 26, Affine Matrix M: (1.9952625475067762, -2.7645191085497562)
+Frame 26, Average Pixel Difference: 0.8830
+Frame 26, Processing Time: 2.6048 seconds
+Frame 27, Affine Matrix M: (2.279259153476038, -0.26445862781124235)
+Frame 27, Average Pixel Difference: -0.3080
+Frame 27, Processing Time: 2.3170 seconds
+Frame 28, Affine Matrix M: (8.384479257245253, 0.6257412014600273)
+Frame 28, Average Pixel Difference: 1.0848
+Frame 28, Processing Time: 3.2113 seconds
+Frame 29, Affine Matrix M: (3.1042007372970626, 1.0496349999119798)
+Frame 29, Average Pixel Difference: -1.4312
+Frame 29, Processing Time: 2.2199 seconds
+Frame 30, Affine Matrix M: (5.267153982081585, 6.4615354680163515)
+Frame 30, Average Pixel Difference: -0.9551
+Frame 30, Processing Time: 1.6482 seconds
+Frame 31, Affine Matrix M: (3.1373556280583172, 0.6327437037802087)
+Frame 31, Average Pixel Difference: 0.2936
+Frame 31, Processing Time: 1.9991 seconds
+Frame 32, Affine Matrix M: (-1.6205893432955192, 1.5390595553689728)
+Frame 32, Average Pixel Difference: -1.4627
+Frame 32, Processing Time: 1.6053 seconds
+Frame 33, Affine Matrix M: (-3.921067090134185, 1.393441237266667)
+Frame 33, Average Pixel Difference: -0.3280
+Frame 33, Processing Time: 1.8623 seconds
+Frame 34, Affine Matrix M: (-14.640136931079205, -2.4343207614516578)
+Frame 34, Average Pixel Difference: -2.7361
+Frame 34, Processing Time: 2.1271 seconds
+Frame 35, Affine Matrix M: (-14.800340695307314, -3.5813618791245974)
+Frame 35, Average Pixel Difference: 0.3210
+Frame 35, Processing Time: 1.9318 seconds
+Frame 36, Affine Matrix M: (-4.764353509010797, -0.2435490159149066)
+Frame 36, Average Pixel Difference: 0.8630
+Frame 36, Processing Time: 2.5447 seconds
+Frame 37, Affine Matrix M: (-7.2698736703109805, -0.8237432318412187)
+Frame 37, Average Pixel Difference: -0.5454
+Frame 37, Processing Time: 1.6250 seconds
+Frame 38, Affine Matrix M: (-4.712616838963013, 3.429682179115931)
+Frame 38, Average Pixel Difference: -0.1708
+Frame 38, Processing Time: 1.7134 seconds
+Frame 39, Affine Matrix M: (3.573037398032361, 2.116439227360515)
+Frame 39, Average Pixel Difference: 0.0409
+Frame 39, Processing Time: 2.7387 seconds
+Frame 40, Affine Matrix M: (13.654913117097315, -0.005435049291177774)
+Frame 40, Average Pixel Difference: 1.0046
+Frame 40, Processing Time: 2.1996 seconds
+Frame 41, Affine Matrix M: (2.1526299919644765, 1.0427034827319428)
+Frame 41, Average Pixel Difference: -2.0084
+Frame 41, Processing Time: 2.7684 seconds
+Frame 42, Affine Matrix M: (6.247463316369198, -0.8632287687061586)
+Frame 42, Average Pixel Difference: -0.1009
+Frame 42, Processing Time: 1.9687 seconds
+Frame 43, Affine Matrix M: (-8.636894301314824, 2.0077362042946)
+Frame 43, Average Pixel Difference: -2.6709
+Frame 43, Processing Time: 3.4652 seconds
+Frame 44, Affine Matrix M: (-22.593400017533376, -5.106120852411376)
+Frame 44, Average Pixel Difference: 0.1091
+Frame 44, Processing Time: 3.3754 seconds
+Frame 45, Affine Matrix M: (-8.862739193435702, -2.244245288678463)
+Frame 45, Average Pixel Difference: 1.1381
+Frame 45, Processing Time: 3.7053 seconds
+Frame 46, Affine Matrix M: (-14.859959831456512, 5.7913385627897815)
+Frame 46, Average Pixel Difference: 2.3464
+Frame 46, Processing Time: 2.8442 seconds
+Frame 47, Affine Matrix M: (-3.3372967901857296, 1.9449052302356558)
+Frame 47, Average Pixel Difference: 0.2552
+Frame 47, Processing Time: 3.2201 seconds
+Frame 48, Affine Matrix M: (5.150917501408062, 7.546086011355986)
+Frame 48, Average Pixel Difference: 1.4382
+Frame 48, Processing Time: 3.0787 seconds
+Dataset: landing, Total Processing Time: 102.9171 seconds
+Dataset: landing, Average Time Per Frame: 2.1002 seconds

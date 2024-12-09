@@ -1,0 +1,199 @@
+Processing dataset: landing
+Frame 0, Affine Matrix M: [[ 1.00074267e+00 -5.06629935e-04 -3.83859389e-02]
+ [-1.10985944e-04  1.00094533e+00 -3.70461136e-01]]
+Frame 0, Average Pixel Difference: 114188917.4207
+Frame 0, Processing Time: 36.9408 seconds
+Frame 1, Affine Matrix M: [[ 1.0004613e+00 -7.9104083e-04  2.9180869e-01]
+ [-2.7400322e-04  9.9943817e-01  6.9085050e-01]]
+Frame 1, Average Pixel Difference: 144970392.5243
+Frame 1, Processing Time: 38.8698 seconds
+Frame 2, Affine Matrix M: [[ 1.0001279e+00 -7.7098090e-04  5.0754082e-01]
+ [-6.7817880e-04  1.0003852e+00  2.8379384e-01]]
+Frame 2, Average Pixel Difference: 153129364.9587
+Frame 2, Processing Time: 30.7543 seconds
+Frame 3, Affine Matrix M: [[ 1.00062692e+00  1.09527995e-04 -4.17119890e-01]
+ [-3.18669539e-04  1.00120115e+00 -5.11513770e-01]]
+Frame 3, Average Pixel Difference: 128839841.6299
+Frame 3, Processing Time: 30.4356 seconds
+Frame 4, Affine Matrix M: [[ 1.0000972e+00  7.4558478e-04 -5.5078310e-01]
+ [ 3.0364495e-04  9.9939591e-01  4.0060416e-01]]
+Frame 4, Average Pixel Difference: 138082864.0317
+Frame 4, Processing Time: 32.2606 seconds
+Frame 5, Affine Matrix M: [[ 1.0005900e+00  3.2042456e-04 -4.8538211e-01]
+ [-5.3327176e-04  1.0011586e+00 -2.8902841e-01]]
+Frame 5, Average Pixel Difference: 122688858.1204
+Frame 5, Processing Time: 30.9041 seconds
+Frame 6, Affine Matrix M: [[ 1.0003042e+00  5.9251231e-04 -5.7946008e-01]
+ [-4.3879254e-04  1.0004495e+00  1.1603845e-01]]
+Frame 6, Average Pixel Difference: 122148967.1222
+Frame 6, Processing Time: 27.6721 seconds
+Frame 7, Affine Matrix M: [[ 1.0001543e+00  5.0493469e-04 -4.4852260e-01]
+ [-3.2376265e-04  1.0009372e+00 -2.3261768e-01]]
+Frame 7, Average Pixel Difference: 121034319.5611
+Frame 7, Processing Time: 31.7612 seconds
+Frame 8, Affine Matrix M: [[ 1.0002437e+00  6.7198765e-04 -5.7905394e-01]
+ [-1.0596466e-05  9.9972868e-01  3.6521634e-01]]
+Frame 8, Average Pixel Difference: 124088439.6912
+Frame 8, Processing Time: 26.6161 seconds
+Frame 9, Affine Matrix M: [[ 1.0004686e+00  4.5415538e-04 -5.2965283e-01]
+ [-7.1054761e-04  1.0004642e+00  3.2156995e-01]]
+Frame 9, Average Pixel Difference: 122563419.9943
+Frame 9, Processing Time: 26.4761 seconds
+Frame 10, Affine Matrix M: [[ 9.9988186e-01  5.5046973e-04 -3.3186844e-01]
+ [-1.3231968e-04  1.0005857e+00 -1.5146241e-01]]
+Frame 10, Average Pixel Difference: 139414312.5093
+Frame 10, Processing Time: 26.0388 seconds
+Frame 11, Affine Matrix M: [[ 9.9995255e-01  5.0295354e-04 -3.1145522e-01]
+ [ 3.9750332e-04  9.9952358e-01  2.3472355e-01]]
+Frame 11, Average Pixel Difference: 175396402.1201
+Frame 11, Processing Time: 27.6084 seconds
+Frame 12, Affine Matrix M: [[ 1.0002929e+00  2.9659044e-04 -3.7657905e-01]
+ [-4.9689494e-04  1.0000607e+00  3.5957903e-01]]
+Frame 12, Average Pixel Difference: 213088363.4101
+Frame 12, Processing Time: 26.4221 seconds
+Frame 13, Affine Matrix M: [[ 1.0003444e+00 -5.6876248e-04  1.9955409e-01]
+ [-2.4958869e-04  9.9968678e-01  4.2972431e-01]]
+Frame 13, Average Pixel Difference: 187831242.5849
+Frame 13, Processing Time: 30.6371 seconds
+Frame 14, Affine Matrix M: [[ 1.0006040e+00  3.8377196e-04 -6.0070610e-01]
+ [-3.7804180e-05  1.0004140e+00 -3.9379038e-02]]
+Frame 14, Average Pixel Difference: 111465453.7001
+Frame 14, Processing Time: 24.8458 seconds
+Frame 15, Affine Matrix M: [[ 1.0000672e+00 -2.3559916e-04  1.3727157e-01]
+ [ 1.2011570e-04  9.9918121e-01  5.8064789e-01]]
+Frame 15, Average Pixel Difference: 164601320.3495
+Frame 15, Processing Time: 30.7891 seconds
+Frame 16, Affine Matrix M: [[ 1.0019561e+00 -1.6751164e-03  2.1739708e-01]
+ [-9.0080744e-04  1.0001333e+00  1.0227649e+00]]
+Frame 16, Average Pixel Difference: 114970794.9155
+Frame 16, Processing Time: 62.4116 seconds
+Frame 17, Affine Matrix M: [[ 1.00082052e+00 -2.98509432e-04 -2.55615115e-01]
+ [ 1.58842391e-04  9.99989331e-01  1.17414735e-01]]
+Frame 17, Average Pixel Difference: 112121877.7120
+Frame 17, Processing Time: 35.7052 seconds
+Frame 18, Affine Matrix M: [[ 1.0001562e+00 -3.9584699e-04  2.0408641e-01]
+ [-4.5934667e-05  9.9953151e-01  4.1202623e-01]]
+Frame 18, Average Pixel Difference: 221192350.6837
+Frame 18, Processing Time: 25.7151 seconds
+Frame 19, Affine Matrix M: [[ 1.0001543e+00 -4.4785399e-04  2.2614966e-01]
+ [-1.7162754e-04  9.9962866e-01  4.0666270e-01]]
+Frame 19, Average Pixel Difference: 240168340.7659
+Frame 19, Processing Time: 27.3295 seconds
+Frame 20, Affine Matrix M: [[ 1.0003960e+00 -8.1594347e-04  3.5241583e-01]
+ [-3.9907769e-04  9.9964142e-01  5.8854079e-01]]
+Frame 20, Average Pixel Difference: 151994195.4875
+Frame 20, Processing Time: 27.6786 seconds
+Frame 21, Affine Matrix M: [[ 1.0006958e+00  3.0899627e-04 -5.7826501e-01]
+ [-3.7850739e-04  1.0002617e+00  2.3632015e-01]]
+Frame 21, Average Pixel Difference: 117867562.6365
+Frame 21, Processing Time: 20.5248 seconds
+Frame 22, Affine Matrix M: [[ 1.0000858e+00  6.5985136e-04 -4.8742267e-01]
+ [ 4.3605652e-04  9.9928075e-01  3.6667481e-01]]
+Frame 22, Average Pixel Difference: 173205537.7291
+Frame 22, Processing Time: 25.2775 seconds
+Frame 23, Affine Matrix M: [[ 1.0001982e+00  3.0672652e-04 -3.0909285e-01]
+ [ 1.7095223e-04  9.9949026e-01  3.2386446e-01]]
+Frame 23, Average Pixel Difference: 216444795.2458
+Frame 23, Processing Time: 28.9987 seconds
+Frame 24, Affine Matrix M: [[ 1.0000218e+00  3.6655081e-04 -2.6803297e-01]
+ [ 4.7263765e-04  9.9945349e-01  1.5068807e-01]]
+Frame 24, Average Pixel Difference: 235516930.8267
+Frame 24, Processing Time: 20.7690 seconds
+Frame 25, Affine Matrix M: [[ 1.0019854  -0.00171247  0.26287234]
+ [-0.00156374  1.0010502   0.8183578 ]]
+Frame 25, Average Pixel Difference: 120735616.1828
+Frame 25, Processing Time: 54.8959 seconds
+Frame 26, Affine Matrix M: [[ 1.0004730e+00 -4.2584265e-04  5.3985219e-02]
+ [-3.0915853e-05  1.0010875e+00 -5.8644831e-01]]
+Frame 26, Average Pixel Difference: 144387577.3576
+Frame 26, Processing Time: 25.6586 seconds
+Frame 27, Affine Matrix M: [[ 1.0004869e+00 -6.6284119e-04  2.0100138e-01]
+ [ 1.7117156e-04  1.0004358e+00 -2.0087446e-01]]
+Frame 27, Average Pixel Difference: 135002007.7769
+Frame 27, Processing Time: 27.8284 seconds
+Frame 28, Affine Matrix M: [[ 1.0001179e+00 -4.3461969e-04  2.4982263e-01]
+ [-2.0943020e-04  9.9999052e-01  1.9676079e-01]]
+Frame 28, Average Pixel Difference: 223830483.0531
+Frame 28, Processing Time: 30.6300 seconds
+Frame 29, Affine Matrix M: [[ 1.0001763e+00 -7.2713697e-04  4.1743556e-01]
+ [-4.7092789e-04  9.9979615e-01  5.1785874e-01]]
+Frame 29, Average Pixel Difference: 159016557.7825
+Frame 29, Processing Time: 31.6803 seconds
+Frame 30, Affine Matrix M: [[ 1.0002393e+00 -3.3322265e-04  1.0610163e-01]
+ [ 1.1335751e-04  9.9960649e-01  2.7379113e-01]]
+Frame 30, Average Pixel Difference: 253539589.8089
+Frame 30, Processing Time: 35.9788 seconds
+Frame 31, Affine Matrix M: [[ 1.0000961e+00 -6.9977611e-04  4.5434129e-01]
+ [-5.6686118e-04  9.9998748e-01  4.3038711e-01]]
+Frame 31, Average Pixel Difference: 156721979.2067
+Frame 31, Processing Time: 28.3199 seconds
+Frame 32, Affine Matrix M: [[ 1.0004605e+00  6.7356386e-04 -6.8640977e-01]
+ [ 1.8907708e-04  9.9947029e-01  4.3926564e-01]]
+Frame 32, Average Pixel Difference: 124450049.1119
+Frame 32, Processing Time: 28.5112 seconds
+Frame 33, Affine Matrix M: [[ 9.9999171e-01  6.8956806e-04 -4.7701648e-01]
+ [ 3.4265654e-04  9.9955195e-01  2.3650183e-01]]
+Frame 33, Average Pixel Difference: 143907950.4164
+Frame 33, Processing Time: 32.8947 seconds
+Frame 34, Affine Matrix M: [[ 9.9992847e-01  2.0523740e-04 -1.3426509e-01]
+ [-2.9732811e-04  1.0006040e+00 -1.6049434e-01]]
+Frame 34, Average Pixel Difference: 245862868.3008
+Frame 34, Processing Time: 26.3328 seconds
+Frame 35, Affine Matrix M: [[ 9.99927878e-01  1.66473561e-04 -1.12643994e-01]
+ [-2.92247743e-04  1.00055444e+00 -1.35248691e-01]]
+Frame 35, Average Pixel Difference: 252144603.6209
+Frame 35, Processing Time: 26.1615 seconds
+Frame 36, Affine Matrix M: [[ 9.9993223e-01  6.1951077e-04 -4.2115289e-01]
+ [-1.1812988e-04  1.0004419e+00 -9.4696663e-02]]
+Frame 36, Average Pixel Difference: 152018855.8808
+Frame 36, Processing Time: 24.8195 seconds
+Frame 37, Affine Matrix M: [[ 9.9979872e-01  4.9784238e-04 -2.8197020e-01]
+ [ 8.3813384e-06  1.0005382e+00 -2.2910061e-01]]
+Frame 37, Average Pixel Difference: 178391129.8180
+Frame 37, Processing Time: 17.3921 seconds
+Frame 38, Affine Matrix M: [[ 1.0000237e+00  5.0117268e-04 -3.5523641e-01]
+ [ 3.7456618e-04  9.9933112e-01  3.3203387e-01]]
+Frame 38, Average Pixel Difference: 196006793.4717
+Frame 38, Processing Time: 19.1241 seconds
+Frame 39, Affine Matrix M: [[ 1.0004069e+00 -2.3848374e-04 -3.1742126e-02]
+ [-3.0869449e-04  9.9981195e-01  3.5325387e-01]]
+Frame 39, Average Pixel Difference: 236763276.0443
+Frame 39, Processing Time: 22.6655 seconds
+Frame 40, Affine Matrix M: [[ 1.0000226e+00 -3.3191108e-04  2.3006672e-01]
+ [ 2.2525663e-05  9.9997717e-01  6.6913925e-02]]
+Frame 40, Average Pixel Difference: 284719186.2836
+Frame 40, Processing Time: 19.1133 seconds
+Frame 41, Affine Matrix M: [[ 1.0005090e+00 -5.8864040e-04  1.4705740e-01]
+ [ 4.1901623e-04  9.9974954e-01  8.1116177e-02]]
+Frame 41, Average Pixel Difference: 165300166.3954
+Frame 41, Processing Time: 19.1678 seconds
+Frame 42, Affine Matrix M: [[ 1.0001485e+00 -3.0180835e-04  1.5125297e-01]
+ [ 1.6715718e-04  1.0003834e+00 -2.4847628e-01]]
+Frame 42, Average Pixel Difference: 226541606.9387
+Frame 42, Processing Time: 28.6759 seconds
+Frame 43, Affine Matrix M: [[ 1.0002903e+00  2.2191560e-04 -2.8629184e-01]
+ [-7.2785369e-05  9.9987906e-01  1.7915952e-01]]
+Frame 43, Average Pixel Difference: 277779821.7778
+Frame 43, Processing Time: 23.3279 seconds
+Frame 44, Affine Matrix M: [[ 9.9993360e-01  1.2430518e-04 -8.0435574e-02]
+ [-3.2581799e-04  1.0005232e+00 -1.5197961e-01]]
+Frame 44, Average Pixel Difference: 352076306.3178
+Frame 44, Processing Time: 22.0259 seconds
+Frame 45, Affine Matrix M: [[ 9.9978197e-01  4.6362536e-04 -2.7392995e-01]
+ [-4.2896758e-05  1.0006977e+00 -3.4493396e-01]]
+Frame 45, Average Pixel Difference: 228972167.6594
+Frame 45, Processing Time: 21.1598 seconds
+Frame 46, Affine Matrix M: [[ 1.0000318e+00  2.8965384e-04 -2.2543107e-01]
+ [-7.6647257e-06  9.9970782e-01  2.5292474e-01]]
+Frame 46, Average Pixel Difference: 348375168.7576
+Frame 46, Processing Time: 23.5498 seconds
+Frame 47, Affine Matrix M: [[ 1.0001338e+00  7.5127720e-04 -5.7932770e-01]
+ [ 3.8902415e-04  9.9924862e-01  4.5384666e-01]]
+Frame 47, Average Pixel Difference: 194332854.0292
+Frame 47, Processing Time: 20.6772 seconds
+Frame 48, Affine Matrix M: [[ 1.0000675e+00 -2.8017029e-04  1.6644830e-01]
+ [-3.2342763e-05  9.9947834e-01  4.2676562e-01]]
+Frame 48, Average Pixel Difference: 375758866.0610
+Frame 48, Processing Time: 20.5124 seconds
+Dataset: landing, Total Processing Time: 1384.6936 seconds
+Dataset: landing, Average Time Per Frame: 28.2560 seconds
